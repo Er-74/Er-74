@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет! Я Эрик Петерсон 👋
 
-<!--
-**Er-74/Er-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Backend Developer | Студент МГТУ им. Н.Э. Баумана (ИУ9) | Олимпиадный программист
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Обо мне
+- 🎓 Обучаюсь на кафедре **«Теоретическая информатика и компьютерные технологии»** (ИУ9).
+- 💻 Специализируюсь на разработке высокопроизводительных систем на **C++ (17/20/23)**.
+- 🐧 Активный пользователь **Linux**, пишу скрипты на Bash и автоматизирую процессы.
+- 🏆 Участник и призер олимпиад по программированию (**ICPC**, **ВКОШП**).
+
+### 🛠 Стек технологий
+- **Языки:** C++, C, Java, Go, Python, Scheme (R5RS)
+- **Инструменты:** CMake, Git, GCC/Clang, GDB, Valgrind
+- **Технологии:** Multi-threading (std::shared_mutex), STL, Алгоритмы и структуры данных
+
+### 📁 Избранные проекты
+* ⚡ **[In-Memory KV Store](ссылка_на_репозиторий)** — Высокопроизводительное хранилище на C++23 с поддержкой многопоточности и логированием операций.
+* 📜 **[Forth Interpreter](ссылка_на_репозиторий)** — Интерпретатор стекового языка на Scheme с реализацией LL-парсера.
+* 🔍 **[Lexical Analyzer](ссылка_на_репозиторий)** — Анализатор кода на C99 для токенизации исходных текстов.
+
+### 🏆 Достижения
+- **ICPC 2025:** Диплом III степени (1/8 финала).
+- **Bauman Code Games X:** Финалист (2026).
+- **Математика:** Победитель олимпиады «Росатом» (11 класс), призер ОММО.
+
+---
+
+### 📫 Как со мной связаться:
+- **Telegram:** [@negroid666](https://t.me/negroid666)
+- **Email:** peter.eric2007@gmail.com
+- **Docs:** [Мои дипломы и сертификаты](ссылка_на_гугл_диск)
+
+---
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-74&show_icons=true&theme=tokyonight)
