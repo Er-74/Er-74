@@ -1,36 +1,36 @@
-# Привет! Я Эрик Петерсон 👋
+# Hi there! I'm Erik Peterson 👋
 
-C++ Backend Developer | Студент МГТУ им. Н.Э. Баумана (ИУ9) | Олимпиадный программист
-
----
-
-### 🚀 Обо мне
-- 🎓 Обучаюсь на кафедре **«Теоретическая информатика и компьютерные технологии»** (ИУ9).
-- 💻 Специализируюсь на разработке высокопроизводительных систем на **C++ (17/20/23)**.
-- 🐧 Активный пользователь **Linux**, пишу скрипты на Bash и автоматизирую процессы.
-- 🏆 Участник и призер олимпиад по программированию (**ICPC**, **ВКОШП**).
-
-### 🛠 Стек технологий
-- **Языки:** C++, C, Java, Go, Python, Scheme (R5RS)
-- **Инструменты:** CMake, Git, GCC/Clang, GDB, Valgrind
-- **Технологии:** Multi-threading (std::shared_mutex), STL, Алгоритмы и структуры данных
-
-### 📁 Избранные проекты
-* ⚡ **[In-Memory KV Store](ссылка_на_репозиторий)** — Высокопроизводительное хранилище на C++23 с поддержкой многопоточности и логированием операций.
-* 📜 **[Forth Interpreter](ссылка_на_репозиторий)** — Интерпретатор стекового языка на Scheme с реализацией LL-парсера.
-* 🔍 **[Lexical Analyzer](ссылка_на_репозиторий)** — Анализатор кода на C99 для токенизации исходных текстов.
-
-### 🏆 Достижения
-- **ICPC 2025:** Диплом III степени (1/8 финала).
-- **Bauman Code Games X:** Финалист (2026).
-- **Математика:** Победитель олимпиады «Росатом» (11 класс), призер ОММО.
+**C++ Backend Developer | Student @ BMSTU (IU9) | Competitive Programmer**
 
 ---
 
-### 📫 Как со мной связаться:
+### 🚀 About Me
+- 🎓 Studying **Theoretical Computer Science and Computer Technology** at Bauman Moscow State Technical University (BMSTU).
+- 💻 Focusing on high-performance systems development using **modern C++ (17/20/23)**.
+- 🐧 **Linux** enthusiast: Proficient in Bash scripting and Unix environment automation.
+- 🏆 Competitive programmer: Participant and award winner in **ICPC** and **VKOSHRP**.
+
+### 🛠 Technical Stack
+- **Languages:** C++, C, Java, Go, Python, Scheme (R5RS)
+- **Tools:** CMake, Git, GCC/Clang, GDB, Valgrind
+- **Focus:** Multi-threading (std::shared_mutex), STL, Data Structures & Algorithms
+
+### 📁 Featured Projects
+* ⚡ **[Sharded In-Memory KV Store](https://github.com/Er-74/sharded-kv-store)** — High-performance C++23 storage engine with thread-safety and WAL logging.
+* 📜 **Forth Interpreter** — Stack-based language interpreter written in Scheme (R5RS) with LL-grammar parsing.
+* 🔍 **Lexical Analyzer** — Robust C99-based source code tokenizer for formal language processing.
+
+### 🏆 Achievements
+- **ICPC 2025:** 1/8 Final, Third Degree Award.
+- **Bauman Code Games X (2026):** Finalist (Team Programming).
+- **Mathematics:** 1st Degree Winner of the "RosAtom" Olympiad (Grade 11), Prize-winner of OMMO.
+
+---
+
+### 📫 Connect with me:
 - **Telegram:** [@negroid666](https://t.me/negroid666)
 - **Email:** peter.eric2007@gmail.com
-- **Docs:** [Мои дипломы и сертификаты](ссылка_на_гугл_диск)
+- **Awards:** [My Certificates & Diplomas (Google Drive)](link_to_your_drive)
 
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-74&show_icons=true&theme=tokyonight)
