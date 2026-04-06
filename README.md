@@ -17,8 +17,8 @@
 
 ### Featured Projects
 * **[Sharded In-Memory KV Store](https://github.com/Er-74/sharded-kv-store)** — High-performance C++23 storage engine with thread-safety and WAL logging.
-* **Forth Interpreter** — Stack-based language interpreter written in Scheme (R5RS) with LL-grammar parsing.
-* **Lexical Analyzer** — Robust C99-based source code tokenizer for formal language processing.
+* **[Forth Interpreter](https://github.com/Er-74/c-lexical-analyzer)** — Stack-based language interpreter written in Scheme (R5RS) with LL-grammar parsing.
+* **[Lexical Analyzer](https://github.com/Er-74/scheme-forth-interpreter)** — Robust C99-based source code tokenizer for formal language processing.
 
 ### Achievements
 - **ICPC 2025:** 1/8 Final, Third Degree Award.
